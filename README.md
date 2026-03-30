@@ -4,5 +4,5 @@
 
 ___________
 
-The code and dataset for red tide segmentation will be made publicly available soon.
+The dataset and code for red tide segmentation will be made publicly available soon.
 
